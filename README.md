@@ -1,7 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://64.media.tumblr.com/8eabeeb8419fda393f1d422e59302579/7af6d1e04fce710e-17/s500x750/d9f8d039778c370d11c23bafaed95822256a97d9.gif"  width=100% border-radius:5px >
-
+<img src="https://64.media.tumblr.com/8eabeeb8419fda393f1d422e59302579/7af6d1e04fce710e-17/s500x750/d9f8d039778c370d11c23bafaed95822256a97d9.gif" width="100%" height="50%" style="border-radius: 5;">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
