@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://media1.tenor.com/m/HoVB7y9pG1AAAAAC/vagabond.gif">
+<img src="https://media1.tenor.com/m/HoVB7y9pG1AAAAAC/vagabond.gif"  width=100%>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
