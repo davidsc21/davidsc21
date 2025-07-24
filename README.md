@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://www.canva.com/design/DAGuCXw4Sz0/a-zuok0MtBP4AfW_3ogOpA/watch?utm_content=DAGuCXw4Sz0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3e569abc0a" width="100%" height="50%" style="border-radius: 5;">
+<img src="banner github.gif" width="100%" height="50%" style="border-radius: 5;">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
