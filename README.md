@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🔭 Me considero una persona que aprende rapido.
 
-- 🌱 Soy aspirante a programador.
+- 🌱 Soy programador fullstack junior.
 
 - ☁️ Soy alguien creativo.
 
