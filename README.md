@@ -4,16 +4,16 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy David</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, i'm David</h1></summary>
   </ul>
 </div>
 <hr>
 <!--Intro start-->
-- 🔭 Me considero una persona que aprende rapido.
+- 🔭 I consider myself a fast learner.
 
-- 🌱 Soy programador fullstack junior.
+- 🌱 I'm a junior fullstack developer.
 
-- ☁️ Soy alguien creativo.
+- ☁️ I'm a creative person.
 
 
 <hr>
