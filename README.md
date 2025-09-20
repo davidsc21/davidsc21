@@ -51,8 +51,6 @@
 <hr>
 <div class="portfolio">
   <h1 align="center"><a href="https://portfoliodavidsc21.netlify.app/">CHECK MY PORTFOLIO</a></h1>
-  
 </div>
-
-----------------------------------------------------------------------
+<hr>
 More content soon...
