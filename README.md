@@ -48,7 +48,11 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,md,py,vscode" />
   </a>
 </p>
-
+<hr>
+<div class="portfolio">
+  <h1 align="center"><a href="https://portfoliodavidsc21.netlify.app/">CHECK MY PORTFOLIO</a></h1>
+  
+</div>
 
 ----------------------------------------------------------------------
-Más contenido proximamente...
+More content soon...
