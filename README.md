@@ -1,47 +1,38 @@
+<div align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="banner github.gif" width="100%" height="50%" style="border-radius: 5;">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi! , I'm David <br>🦖🎸</h1></summary>
-  </ul>
-</div>
-<hr>
-  <ul align="center">
-    <h2>Junior software developer</h2>
-<hr>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+  <img src="banner github.gif" width="100%" alt="banner"/>
 
-<!--- stats (end) -->
+  ---
 
-<!--- trophy (start) -->
-<div align=center>
-  
-</div>
-<!--- trophy (start) -->
+  ## 🦖 🎸
+  # ¡Hi! I'm David
 
+  **Junior software developer**
 
-</p>        
-<!--- stats (end) -->
-<hr>
+  ---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I have experience with👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+  ### 🔎 About me
+
+  - Passionate about technology and software development.
+  - Currently learning and improving in **JS, HTML, CSS, Python & automation with n8n.**
+  - Looking to collaborate on innovative projects where I can keep growing.
+  - Feel free to reach out — always open to new opportunities.
+  ---
+
+  ### 🛠 Tech Stack
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,md,py,vscode,n8n" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,js,linux,md,py,vscode,n8n&theme=dark" />
   </a>
-</p>
-<hr>
-<div class="portfolio">
-  <h1 align="center"><a href="https://portfoliodavidsc21.netlify.app/">CHECK MY PORTFOLIO</a></h1>
-<hr>
-More content soon...
+
+  ---
+  ### 🌐 Portfolio
+
+  <h1 align="center">
+    <a href="https://portfoliodavidsc21.netlify.app/">CHECK MY PORTFOLIO</a>
+  </h1>
+
+  <sub>More content soon...</sub>
+
+  ---
+</div>
