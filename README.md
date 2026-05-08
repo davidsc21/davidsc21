@@ -4,18 +4,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm David</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! , I'm David 🦖🎸</h1></summary>
   </ul>
 </div>
 <hr>
-<!--Intro start-->
-- 🔭 I consider myself a fast learner.
-
-- 🌱 I'm a junior fullstack developer.
-
-- ☁️ I'm a creative person.
-
-
+<ul>
+  <ul align="center">
+    <h2>Junior software developer</h2>
+</ul>
 <hr>
 <!--- stats & Trophy (start) -->
 <p align="center">
