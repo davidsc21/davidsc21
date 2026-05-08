@@ -8,10 +8,8 @@
   </ul>
 </div>
 <hr>
-<ul>
   <ul align="center">
     <h2>Junior software developer</h2>
-</ul>
 <hr>
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -41,12 +39,11 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,md,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,md,py,vscode,n8n" />
   </a>
 </p>
 <hr>
 <div class="portfolio">
   <h1 align="center"><a href="https://portfoliodavidsc21.netlify.app/">CHECK MY PORTFOLIO</a></h1>
-</div>
 <hr>
 More content soon...
